@@ -9,6 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cadamini)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cadamini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on documentation in different projects.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadamini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Interesting in technical writing and documentation. Always learning Ruby, HTML, CSS, Javascript, and Bash/Shell.
