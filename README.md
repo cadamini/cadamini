@@ -1,3 +1,5 @@
+Hey there, I am using GitHub ;) I am interested in technical writing and documentation. Always learning Ruby, HTML, CSS, Javascript, and Bash/Shell.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,8 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cadamini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cadamini)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadamini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Interesting in technical writing and documentation. Always learning Ruby, HTML, CSS, Javascript, and Bash/Shell.
