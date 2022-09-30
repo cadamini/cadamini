@@ -1,8 +1,8 @@
 Hey there, I am using GitHub ;) 
 
-I am pretty interested in technical writing and documentation in general. Always learning Ruby, HTML, CSS, Javascript, and Bash/Shell.
+I am interested in technical writing/documentation and programming. Always learning Jekyll, Ruby, HTML, CSS, Javascript, and Bash/Shell. Interested in Python.
 
-- 🔭 I’m currently working on documentation.
+- 🔭 I’m currently working on documentation in a Jekyll project.
 - 🌱 I’m currently learning GitHub Actions and workflow automation.
 - 📫 How to reach me: https://www.facebook.com/christian.adamini
 
