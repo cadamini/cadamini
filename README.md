@@ -12,10 +12,11 @@ I am pretty interested in technical writing and documentation in general. Always
 
 I have recently updated my development environment to the Windows Linux subsystem on Windows 10:   
 
-- To get started with WSLm, this [tutorial by Kia Zhi Tang](https://kiazhi.github.io/blog/Working-with-Jekyll-and-Ruby-on-Windows-for-GitHub-Pages/) was really useful. 
+- To get started with WSL, this [tutorial by Kia Zhi Tang](https://kiazhi.github.io/blog/Working-with-Jekyll-and-Ruby-on-Windows-for-GitHub-Pages/) was really useful. 
 - To install Ruby. I installed [rvm](https://rvm.io/rvm/install) and could use it after updating the PATH. 
-- I switched to VSCode. I installed it using the [VSCode Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) - after reopening WSL `code .` installed the VC Code Server. 
 
-I can now open WSL folders in Windows and Windows folders from WSL using `code .` command in the terminal. Great!
+I switched to VSCode. I installed it using the [VSCode Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) - after reopening WSL `code .` installed the VC Code Server. 
+
+I can now open Windows folders from WSL and Visual Studio Code from WSL using the `code .` command. Great!
 
 
