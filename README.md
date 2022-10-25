@@ -2,13 +2,16 @@ Hey there, I am using GitHub ;)
 
 ### About me
 
-I am Christian. I am interested in documentation and programming. Always learning! 
+I am Christian.  
+Interested in documentation, programming, and mushrooms :mushroom:.  
 
-- 🔭 I’m currently working as technical writer.
+- 🔭 I’m currently working as a technical writer.
 - 🌱 I want to learn more about GitHub Actions and workflow automation.
-- 😎 I am currently using Jekyll, Ruby, HTML, CSS.
+- 😎 I am currently using Jekyll, Ruby, HTML, and CSS.
 - 🎩 I am interested in Python, Javascript, and Bash/Shell.
-- 📫 How to reach me: https://www.facebook.com/christian.adamini
+- 📫 Contact me on [Facebook](https://www.facebook.com/christian.adamini).
+
+**Always learning!** 
 
 ### Stats
 
