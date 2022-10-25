@@ -1,22 +1,29 @@
 Hey there, I am using GitHub ;) 
 
-I am interested in technical writing/documentation and programming. Always learning Jekyll, Ruby, HTML, CSS, Javascript, and Bash/Shell. Interested in Python.
+### About me
 
-- 🔭 I’m currently working on documentation in a Jekyll project.
-- 🌱 I’m currently learning GitHub Actions and workflow automation.
+I am Christian. I am interested in documentation and programming. Always learning! 
+
+- 🔭 I’m currently working as technical writer.
+- 🌱 I want to learn more about GitHub Actions and workflow automation.
+- 😎 I am currently using Jekyll, Ruby, HTML, CSS.
+- 🎩 I am interested in Python, Javascript, and Bash/Shell.
 - 📫 How to reach me: https://www.facebook.com/christian.adamini
+
+### Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cadamini&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadamini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I have recently updated my development environment to the Windows Linux subsystem on Windows 10:   
+### Windows 10 Development environment with Windows Subsystem for Linux (WSL)
 
-- To get started with WSL, this [tutorial by Kia Zhi Tang](https://kiazhi.github.io/blog/Working-with-Jekyll-and-Ruby-on-Windows-for-GitHub-Pages/) was really useful. 
-- To install Ruby. I installed [rvm](https://rvm.io/rvm/install) and could use it after updating the PATH. 
+- To get started with WSL, see this useful tutorial by [Kia Zhi Tang](https://kiazhi.github.io/blog/Working-with-Jekyll-and-Ruby-on-Windows-for-GitHub-Pages/).
+- In WSL, install Ruby, e.g. using [rvm](https://rvm.io/rvm/install) and updated the PATH. 
+- To install VSCode, install the [VSCode Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) and install the VC Code server.
 
-I switched to VSCode. I installed it using the [VSCode Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) - after reopening WSL `code .` installed the VC Code Server. 
-
-I can now open Windows folders from WSL and Visual Studio Code from WSL using the `code .` command. Great!
+You can now access Windows folders and start Visual Studio Code from WSL using the `code .` command. Great!
 
 
