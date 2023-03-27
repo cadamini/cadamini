@@ -21,8 +21,8 @@ I am Christian. Interested in documentation, programming, and mushrooms :mushroo
 To access Windows folders and start Visual Studio Code from WSL by running `code .`, proceed as follows:
 
 - Get started with WSL by reading the tutorial by [Kia Zhi Tang](https://kiazhi.github.io/blog/Working-with-Jekyll-and-Ruby-on-Windows-for-GitHub-Pages/).
-- In WSL, install Ruby, e.g. using [rvm](https://rvm.io/rvm/install) and update the PATH. 
-- To install VSCode, install the [Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) and the VC Code server.
+- In WSL, install Ruby, e.g. using [rvm](https://rvm.io/rvm/install) and update the PATH environment variable. 
+- To install VSCode, install the [Remote WSL extension](https://code.visualstudio.com/docs/remote/wsl-tutorial) and the [Visual Studio Code server](https://code.visualstudio.com/docs/remote/vscode-server).
 
 
 
